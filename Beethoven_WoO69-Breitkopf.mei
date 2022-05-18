@@ -6777,6 +6777,7 @@
                               </beam>
                            </layer>
                         </staff>
+                        <dynam xml:id="dynam-0000000365754577" startid="#note-0000000999927545" place="below" vgrp="1">mf</dynam>
                      </measure>
                      <measure xml:id="measure-0000001098497060" n="194">
                         <staff xml:id="staff-0000001460472092" n="1">
@@ -6789,11 +6790,9 @@
                                  <note xml:id="note-0000000493194245" oct="4" pname="c" accid.ges="s" />
                                  <note xml:id="note-0000000854615073" oct="4" pname="a" />
                               </chord>
-                              <beam xml:id="beam-0000001144900775">
-                                 <note xml:id="note-0000000893848305" dur="16" oct="4" pname="e" stem.dir="up" />
-                                 <note xml:id="note-0000001260351370" dur="16" oct="4" pname="f" stem.dir="up" accid.ges="s" />
-                                 <note xml:id="note-0000001058729473" dur="16" oct="4" pname="g" stem.dir="up" accid.ges="s" />
-                              </beam>
+                              <note xml:id="note-0000000893848305" dur="16" oct="4" pname="e" stem.dir="up"/>
+                              <note xml:id="note-0000001260351370" dur="16" oct="4" pname="f" stem.dir="up" accid.ges="s"/>
+                              <note xml:id="note-0000001058729473" dur="16" oct="4" pname="g" stem.dir="up" accid.ges="s"/>
                            </layer>
                         </staff>
                         <staff xml:id="staff-0000000416365034" n="2">
@@ -6810,16 +6809,15 @@
                         </staff>
                         <slur xml:id="slur-0000001658740953" startid="#chord-0000001430902637" endid="#chord-0000000241031045" curvedir="below" />
                         <slur xml:id="slur-0000001973975364" startid="#chord-0000001430902637" endid="#chord-0000000241031045" curvedir="above" />
+                        <beamSpan xml:id="beamSpan-0000000077495568" startid="#note-0000000893848305" endid="#note-0000001819301955" plist="#note-0000000893848305 #note-0000001260351370 #note-0000001058729473 #note-0000000124962458 #note-0000000005024840 #note-0000000700623647 #note-0000001819301955"/>
                      </measure>
                      <measure xml:id="measure-0000001862034658" n="195">
                         <staff xml:id="staff-0000001551783184" n="1">
                            <layer xml:id="layer-0000001505643647" n="1">
-                              <beam xml:id="beam-0000001552962528">
-                                 <note xml:id="note-0000000124962458" dur="16" oct="4" pname="a" stem.dir="down" />
-                                 <note xml:id="note-0000000005024840" dur="16" oct="4" pname="b" stem.dir="down" />
-                                 <note xml:id="note-0000000700623647" dur="16" oct="5" pname="c" stem.dir="down" accid.ges="s" />
-                                 <note xml:id="note-0000001819301955" dur="16" oct="5" pname="d" stem.dir="down" />
-                              </beam>
+                              <note xml:id="note-0000000124962458" dur="16" oct="4" pname="a" stem.dir="up"/>
+                              <note xml:id="note-0000000005024840" dur="16" oct="4" pname="b" stem.dir="up"/>
+                              <note xml:id="note-0000000700623647" dur="16" oct="5" pname="c" stem.dir="up" accid.ges="s"/>
+                              <note xml:id="note-0000001819301955" dur="16" oct="5" pname="d" stem.dir="up"/>
                               <beam xml:id="beam-0000001135791699">
                                  <note xml:id="note-0000000268946910" dur="8" oct="5" pname="e" stem.dir="down" />
                                  <chord xml:id="chord-0000001253934178" dur="8" stem.dir="down">
@@ -6840,6 +6838,7 @@
                               </beam>
                            </layer>
                         </staff>
+                        <dynam xml:id="dynam-0000000309021686" startid="#note-0000000268946910" place="below" vgrp="1">mf</dynam>
                      </measure>
                      <measure xml:id="measure-0000000330715106" n="196">
                         <staff xml:id="staff-0000001850431284" n="1">
