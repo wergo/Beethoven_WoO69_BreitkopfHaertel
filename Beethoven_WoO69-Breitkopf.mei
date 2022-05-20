@@ -170,6 +170,7 @@
                               </beam>
                            </layer>
                         </staff>
+                        <hairpin xml:id="hairpin-0000000469003207" startid="#note-0000001404938759" endid="#note-0000000512753241" form="cres"/>
                      </measure>
                      <measure xml:id="measure-0000000129842272" n="4">
                         <staff xml:id="staff-0000001493059020" n="1">
@@ -226,6 +227,7 @@
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000001873362774" startid="#chord-0000000395952740" endid="#note-0000000935398591" curvedir="below" />
+                        <hairpin xml:id="hairpin-0000000465770003" startid="#note-0000000512753241" endid="#note-0000000436812111" form="dim"/>
                      </measure>
                      <measure xml:id="measure-0000001370608845" n="6">
                         <staff xml:id="staff-0000000464651621" n="1">
