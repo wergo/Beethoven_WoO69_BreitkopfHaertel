@@ -811,19 +811,17 @@
                                     </note>
                                  </tuplet>
                               </beam>
-                              <beam xml:id="beam-0000001843162468">
-                                 <tuplet xml:id="tuplet-0000000579991701" num="3" numbase="2" num.visible="false" bracket.visible="false">
-                                    <note xml:id="note-0000000492244974" dur="8" oct="4" pname="a" stem.dir="down">
-                                       <artic xml:id="artic-0000001054269774" artic="stacc" />
+                              <tuplet xml:id="tuplet-0000000579991701" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                                    <note xml:id="note-0000000492244974" dur="8" oct="4" pname="a" stem.dir="up">
+                                       <artic xml:id="artic-0000001054269774" artic="stacc"/>
                                     </note>
                                     <note xml:id="note-0000000224520221" dur="8" oct="5" pname="c" stem.dir="down" accid.ges="s">
-                                       <artic xml:id="artic-0000000566409258" artic="stacc" />
+                                       <artic xml:id="artic-0000000566409258" artic="stacc"/>
                                     </note>
                                     <note xml:id="note-0000001992875702" dur="8" oct="5" pname="d" stem.dir="down">
-                                       <artic xml:id="artic-0000002106964902" artic="stacc" />
+                                       <artic xml:id="artic-0000002106964902" artic="stacc"/>
                                     </note>
                                  </tuplet>
-                              </beam>
                            </layer>
                         </staff>
                         <staff xml:id="staff-0000002066743320" n="2">
@@ -840,25 +838,25 @@
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000001495112595" startid="#note-0000000794370448" endid="#note-0000000651230618" curvedir="above" />
+                        <beamSpan xml:id="beamSpan-0000000693961204" startid="#note-0000000224520221" endid="#note-0000000678493362" plist="#note-0000000224520221 #note-0000001992875702 #note-0000001277552438 #note-0000000489248886 #note-0000000678493362"/>
+                        <beamSpan xml:id="beamSpan-0000000084062805" startid="#note-0000000492244974" endid="#note-0000000861573261" plist="#note-0000000492244974 #note-0000000861573261"/>
                      </measure>
                      <measure xml:id="measure-0000001924278643" n="27">
                         <staff xml:id="staff-0000000038769287" n="1">
                            <layer xml:id="layer-0000000558061441" n="1">
                               <note xml:id="note-0000001277552438" dur="8" oct="5" pname="f" grace="unacc" stem.dir="up" stem.mod="1slash" accid.ges="s" />
-                              <beam xml:id="beam-0000002000229675">
-                                 <tuplet xml:id="tuplet-0000001151137587" num="3" numbase="2" num.visible="false" bracket.visible="false">
+                              <tuplet xml:id="tuplet-0000001151137587" num="3" numbase="2" num.visible="false" bracket.visible="false">
                                     <note xml:id="note-0000000489248886" dur="8" oct="5" pname="e" stem.dir="down">
-                                       <artic xml:id="artic-0000000091142639" artic="stacc" />
+                                       <artic xml:id="artic-0000000091142639" artic="stacc"/>
                                     </note>
                                     <note xml:id="note-0000000678493362" dur="8" oct="5" pname="d" stem.dir="down">
-                                       <accid xml:id="accid-0000000299769564" accid="s" />
-                                       <artic xml:id="artic-0000000230426286" artic="stacc" />
+                                       <accid xml:id="accid-0000000299769564" accid="s"/>
+                                       <artic xml:id="artic-0000000230426286" artic="stacc"/>
                                     </note>
-                                    <note xml:id="note-0000000861573261" dur="8" oct="5" pname="e" stem.dir="down">
-                                       <artic xml:id="artic-0000002127049553" artic="stacc" />
+                                    <note xml:id="note-0000000861573261" dur="8" oct="5" pname="e" stem.dir="up">
+                                       <artic xml:id="artic-0000002127049553" artic="stacc"/>
                                     </note>
                                  </tuplet>
-                              </beam>
                               <beam xml:id="beam-0000000161565662">
                                  <tuplet xml:id="tuplet-0000001014751426" num="3" numbase="2" num.visible="false" bracket.visible="false">
                                     <note xml:id="note-0000001759575955" dur="8" oct="5" pname="a" stem.dir="down">
