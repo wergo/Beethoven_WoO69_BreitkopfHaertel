@@ -259,12 +259,12 @@
                            <layer xml:id="layer-0000000727223173" n="1">
                               <note xml:id="note-0000001110433534" dur="4" oct="5" pname="e" stem.dir="up" />
                               <beam xml:id="beam-0000001423513508">
-                                 <note xml:id="note-0000002023701376" dur="16" oct="5" pname="d" stem.dir="up">
-                                    <accid xml:id="accid-0000000503025246" accid="s" />
+                                 <note xml:id="note-0000002023701376" dur="16" oct="5" pname="d" stem.dir="down">
+                                    <accid xml:id="accid-0000000503025246" accid="s"/>
                                  </note>
-                                 <note xml:id="note-0000000513274538" dur="16" oct="5" pname="e" stem.dir="up" />
-                                 <note xml:id="note-0000000163350167" dur="16" oct="5" pname="f" stem.dir="up" accid.ges="s" />
-                                 <note xml:id="note-0000001417332390" dur="16" oct="5" pname="d" stem.dir="up" accid.ges="s" />
+                                 <note xml:id="note-0000000513274538" dur="16" oct="5" pname="e" stem.dir="down"/>
+                                 <note xml:id="note-0000000163350167" dur="16" oct="5" pname="f" stem.dir="down" accid.ges="s"/>
+                                 <note xml:id="note-0000001417332390" dur="16" oct="5" pname="d" stem.dir="down" accid.ges="s"/>
                               </beam>
                            </layer>
                            <layer xml:id="layer-0000001383553861" n="2">
