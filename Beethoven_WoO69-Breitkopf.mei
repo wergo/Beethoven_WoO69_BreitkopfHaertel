@@ -25,6 +25,10 @@
                <name xml:id="name-0000001117986893">Verovio</name>
                <p xml:id="p-0000001671283048">Transcoded from MusicXML</p>
             </application>
+            <application xml:id="a277g72" startdate="2023-03-08T22:07:28" version="0.8.6">
+               <name xml:id="nqjfg4a">mei-friend</name>
+               <p xml:id="p2jx57e1">First edit by mei-friend 0.8.6, 8 Mar 2023.</p>
+            </application>
          </appInfo>
       </encodingDesc>
    </meiHead>
@@ -114,7 +118,7 @@
                         <tempo xml:id="tempo-00012351243123" type="heading" place="above" staff="1" tstamp="1.000000">
                            <rend xml:id="rend-0000002143078728" halign="center" valign="middle" fontsize="125.00%" fontstyle="normal" fontweight="bold">TEMA.</rend>
                         </tempo>
-                        <dynam xml:id="dynam-0000000595055045" place="below" staff="1" tstamp="1.000000" vgrp="40">mf</dynam>
+                        <dynam xml:id="dynam-0000000595055045" place="above" staff="1" tstamp="1.000000" vgrp="40">mf</dynam>
                      </measure>
                      <measure xml:id="measure-0000002026807293" n="2">
                         <staff xml:id="staff-0000000984263316" n="1">
