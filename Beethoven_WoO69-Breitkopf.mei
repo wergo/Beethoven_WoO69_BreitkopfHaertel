@@ -25,7 +25,7 @@
                <name xml:id="name-0000001117986893">Verovio</name>
                <p xml:id="p-0000001671283048">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a277g72" startdate="2023-03-08T22:07:28" version="0.8.6">
+            <application xml:id="a277g72" startdate="2023-03-08T22:07:28" version="0.8.6" enddate="2023-03-09T14:44:39">
                <name xml:id="nqjfg4a">mei-friend</name>
                <p xml:id="p2jx57e1">First edit by mei-friend 0.8.6, 8 Mar 2023.</p>
             </application>
@@ -175,6 +175,7 @@
                            </layer>
                         </staff>
                         <hairpin xml:id="hairpin-0000000469003207" startid="#note-0000001404938759" endid="#note-0000000512753241" form="cres"/>
+                        <slur xml:id="s6kw7uz1" staff="1" tstamp="1" tstamp2="2"/>
                      </measure>
                      <measure xml:id="measure-0000000129842272" n="4">
                         <staff xml:id="staff-0000001493059020" n="1">
@@ -9507,6 +9508,8 @@
                         </staff>
                         <dynam xml:id="dynam-0000001709468551" place="below" staff="1" tstamp="1.500000" vgrp="40">sf</dynam>
                         <slur xml:id="slur-0000001868118477" startid="#note-0000002105435098" endid="#note-0000002004761324" curvedir="above" />
+                        <tie xml:id="t28a8k5" staff="1" tstamp="1.5" tstamp2="2.5"/>
+                        <hairpin xml:id="hgy7wr71" staff="1" tstamp="1.5" tstamp2="1m+1" form="cres"/>
                      </measure>
                      <measure xml:id="measure-0000001685132826" n="265">
                         <staff xml:id="staff-0000000126901614" n="1">
